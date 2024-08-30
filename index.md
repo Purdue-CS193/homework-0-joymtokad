@@ -5,7 +5,4 @@
 - I **enjoy** the _topics_ we discuss
 
 
-[Link](url) and ![Image](src)
-```
-
 
